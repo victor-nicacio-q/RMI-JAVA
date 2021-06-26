@@ -1,0 +1,13 @@
+[command] > showp
+Você não possui peça no repositório interno
+
+-------------------------------------------------------------
+[command] > showp
+
+[Nome:test
+  ID:-1338937489 ~ 1]
+
+Repositório fonte: c:1099
+
+Sub-peças [[Nome:prego
+  ID:106930891 ~ 0]]

@@ -1,0 +1,2 @@
+[command | bind] > Nome do servidor: 
+Conectado := 

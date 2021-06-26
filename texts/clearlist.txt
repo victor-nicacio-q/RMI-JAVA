@@ -1,0 +1,3 @@
+[command] > clearlist
+
+Lista de subpeças limpa!!

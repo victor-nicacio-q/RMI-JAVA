@@ -1,0 +1,34 @@
+[command : addp] > Digite o nome da peça primitiva: 
+[command : addp] > Tem sub-peças? [S/N] n
+
+Peça
+[Nome:c
+  ID:99 ~ 0] adicionada
+
+
+
+--------------------------------------------------------------
+[command : addp] > Digite o nome da peça primitiva:
+[command : addp] > Tem sub-peças? [S/N] s
+[command : addp] > Novo [1] ou já existente [0]?
+[command : addp] > Digite suas sub-peçasm, separando por (xxx,yyy,zzz..): 
+
+Peça
+[Nome:p
+  ID:112 ~ 2] adicionada
+
+
+--------------------------------------------------------------
+[command : addp] > Digite o nome da peça primitiva:
+[command : addp] > Tem sub-peças? [S/N] s
+[command : addp] > Novo [1] ou já existente [0]?
+[command : addp] > Escolha uma das sub-peças pre-selecionadas: 
+0. xxx
+1. yyy
+
+Peça
+[Nome:c
+  ID:99 ~ 0] adicionada
+
+
+

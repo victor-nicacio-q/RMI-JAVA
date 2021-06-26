@@ -1,0 +1,3 @@
+[addserver] - Inserir novo servidor
+[command | bind] > Nome do servidor: 
+Servidor stand by na porta:

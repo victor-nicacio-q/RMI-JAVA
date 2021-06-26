@@ -1,0 +1,4 @@
+>lists
+Quantidade de servidores ativos: 1
+Lista de servers: 
+c:1099

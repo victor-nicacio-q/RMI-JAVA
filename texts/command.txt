@@ -1,0 +1,14 @@
+[command] - Comandos
+Comandos:
+
+Preferencialmente após criar algum servidor
+
+	bind - conecta ao servidor
+	listp - lista peças do repositorio corrente
+	addp - adiciona peça ao repositorio corrente
+	getq - quantidade de peças no repositório
+	getp - buscar peça
+	showp - atributos peça corrente [Apenas após getp]
+	clearlist - limpar lista de sub-peças
+	help - mostrar lista de opções
+	back - voltar para o menu principal

@@ -33,7 +33,7 @@ public class Main {
 		System.out.println("Comandos:\n");
 		System.out.println("Preferencialmente após criar algum servidor\n");
 
-		if (client.stub != null) System.out.println("Conectado em " + client.stub.getName());
+		if (client.stub != null) System.out.println("\tConectado em " + client.stub.getName());
 		System.out.println("	bind - conecta ao servidor");
 		System.out.println("	listp - lista peças do repositorio corrente");
 		System.out.println("	addp - adiciona peça ao repositorio corrente");
@@ -44,7 +44,6 @@ public class Main {
 		System.out.println("	help - mostrar lista de opções");
 		System.out.println("	back - voltar para o menu principal");
 		System.out.println();
-
 	}
 	
 	public static void list() {
@@ -53,7 +52,6 @@ public class Main {
 		System.out.println("[lists] - Lista de servidores ativos");
 		System.out.println("[help] - Printar menu principal");
 		System.out.println("[quit] - Encerrar o programa\n");
-
 	}
 	
 	public static void messages() {

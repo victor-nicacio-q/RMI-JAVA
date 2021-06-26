@@ -1,0 +1,2 @@
+[command] > getq
+x

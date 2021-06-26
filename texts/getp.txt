@@ -1,0 +1,3 @@
+[command] > getp
+[command : getp] > Insira o ID da peça: 
+Peça adicionada no repositorio
