@@ -1,4 +1,4 @@
-package br.dsid.Interfaces;
+package br.rmi.Interfaces;
 
 import java.io.Serializable;
 import java.util.ArrayList;

@@ -1,6 +1,6 @@
-package br.dsid.Server;
+package br.rmi.Server;
 
-import br.dsid.Interfaces.PartRepository;
+import br.rmi.Interfaces.PartRepository;
 
 import java.rmi.AlreadyBoundException;
 import java.rmi.RemoteException;

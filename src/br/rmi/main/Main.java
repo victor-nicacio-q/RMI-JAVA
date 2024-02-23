@@ -1,4 +1,4 @@
-package br.dsid.main;
+package br.rmi.main;
 
 import java.rmi.RemoteException;
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package br.dsid.Client;
+package br.rmi.Client;
 
 import java.io.Serializable;
 import java.rmi.NotBoundException;

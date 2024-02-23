@@ -1,4 +1,4 @@
-package br.dsid.Interfaces;
+package br.rmi.Interfaces;
 
 import java.rmi.Remote;
 import java.rmi.RemoteException;

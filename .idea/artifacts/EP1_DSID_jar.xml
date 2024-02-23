@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="EP1_DSID:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/EP1_DSID_jar</output-path>
-    <root id="archive" name="EP1_DSID.jar">
-      <element id="module-output" name="EP1_DSID" />
-    </root>
-  </artifact>
-</component>
